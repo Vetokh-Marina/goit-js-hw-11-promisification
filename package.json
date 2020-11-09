@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Vetokh-Marina/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://Marina-Vetokh.github.io/goit-js-hw-11-promisification",
+  "homepage": "https://vetokh-marina.github.io/goit-js-hw-11-promisification/",
   "devDependencies": {
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1"
