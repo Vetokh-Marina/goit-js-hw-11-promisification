@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url /goit-js-hw-11-promisification/",
+   "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html --public-url /goit-js-hw-11-promisification/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
